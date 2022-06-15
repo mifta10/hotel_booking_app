@@ -1,0 +1,10 @@
+.topnav-bg{
+  background-color: #74E9ED;
+}
+.topnav li{
+  display: inline;
+}
+.topnav li a{
+  text-decoration: none;
+  margin-right: 530px;
+}
